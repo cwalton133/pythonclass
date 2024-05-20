@@ -1,27 +1,27 @@
 # print("Hello Jeremy Jackson")
 
-#Declaring variables
+##Declaring variables
 
 # my_name = "Charles"
 # my_state = "Delta State"
 # print(f'My name is {my_name} I am from {my_state}')
 
-#Declaring input type
+##Declaring and use of input type
 
 # my_name = input("Enter your name \n")
 # my_state = input("Enter your state \n")
 
 
 
-#declaring variables
+##Declaring variables
 
-# num1 = int(input("Enter your first number"))
-# num2 = int(input("Enter your second number"))
-# print(f"The value of {num1} and {num2} is {num1} +{num2}")
+num1 = int(input("Enter your first number"))
+num2 = int(input("Enter your second number"))
+print(f"The value of {num1} and {num2} is {num1} +{num2}")
 
 
 
-#Declaring of numbers 
+##dData types 
 
 # x = 3
 # y = int(3)
@@ -29,15 +29,15 @@
 # z1 = float (3)
 # print(type(x))
 
-#declaring function
+##Declaring and uses of function
 
 # x = "Programming Language"
 
 # def tunde():
-#     print("Pythin is my interesting" +x")
+#     print("Python is my interesting" +x")
 
 
-#Create a programme that take details of Employees 
+##Create a programme that take details of Employees 
 
 # fname= input("Enter your first name: ")
 # print(fname)
@@ -48,7 +48,7 @@
 # salary = int(input("Enter your salary?: "))
 # print(salary)
 
-#String types
+##String types
 
 #Strings are alpha numeric data types
 address = "47, Herbert Maculay Road, Off University Road, Akoka Yaba Lagos"
